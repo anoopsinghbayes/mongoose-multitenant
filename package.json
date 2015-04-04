@@ -22,7 +22,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    
+    "mongoose": "~4.0.1",
     "mongoose-schema-extend": "~0.1.7",
     "dot-component": "~0.1.0",
     "underscore": "~1.5.2",
